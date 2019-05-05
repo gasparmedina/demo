@@ -23,7 +23,7 @@
 			"school_year": 5
 		},
 		{
-			"id": 1,
+			"id": 2,
 			"name": "Juan",
 			"last_name": "ro",
 			"birthdate": "15/04/2010",
@@ -31,7 +31,7 @@
 			"school_year": 2
 		},
 		{
-			"id": 1,
+			"id": 3,
 			"name": "Julio",
 			"last_name": "rostra",
 			"birthdate": "15/01/2010",

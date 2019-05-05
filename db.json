@@ -1,19 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-   "patients": [
-    { "id": 1, "name": "Pepe", "last_name": "Pepe", "birthdate":"15/05/2010", "sex": "Masculino", "school_year": 5 },
-    { "id": 1, "name": "Juan", "last_name": "ro", "birthdate":"15/04/2010", "sex": "Masculino", "school_year": 2 },
-    { "id": 1, "name": "Julio", "last_name": "rostra", "birthdate":"15/01/2010", "sex": "Masculino", "school_year": 5 }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"patients": [{
+			"id": 1,
+			"name": "Pepe",
+			"last_name": "Pepe",
+			"birthdate": "15/05/2010",
+			"sex": "Masculino",
+			"school_year": 5
+		},
+		{
+			"id": 1,
+			"name": "Juan",
+			"last_name": "ro",
+			"birthdate": "15/04/2010",
+			"sex": "Masculino",
+			"school_year": 2
+		},
+		{
+			"id": 1,
+			"name": "Julio",
+			"last_name": "rostra",
+			"birthdate": "15/01/2010",
+			"sex": "Masculino",
+			"school_year": 5
+		}
+	]
 }
